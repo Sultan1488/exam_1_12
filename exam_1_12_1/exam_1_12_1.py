@@ -26,9 +26,9 @@ x = [].append('j')
 #7
 for i in range(10):
 	if i < 5:
-			x = 'hello'
+		x = 'hello'
 	else:
-			x = 5
+		x = 5
 # x = integer
 
 #8
