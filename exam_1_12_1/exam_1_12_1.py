@@ -25,11 +25,11 @@ x = [].append('j')
 
 #7
 for i in range(10):
-		if i < 5:
-				x = 'hello'
-		else:
-				x = 5
-x = integer
+	if i < 5:
+			x = 'hello'
+	else:
+			x = 5
+# x = integer
 
 #8
 x = input('Enter and integer: ')
