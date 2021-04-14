@@ -10,7 +10,6 @@ print(func(['hello', 5, 'John', ]))
 # Вторая функция
 def func(*args):
     dict_1 = {}
-    count = 0
     for i in args:
         dict_1[i] = args.index(i) + 1
     return dict_1
